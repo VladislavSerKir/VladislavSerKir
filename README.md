@@ -1,10 +1,12 @@
+<div align="left">
+  <h2>
+   Добро пожаловать :wave: , я Владислав Киреев
+  </h2>
+</div>
 
-# Добро пожаловать :wave: , я Владислав Киреев
-
-
-## :memo: Используемые языки и технологии
-
-<p>
+<h3> :memo: Используемые языки и технологии </h3>
+<div align="left">
+  <br/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
@@ -16,9 +18,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-</p>
+</div>
 
-## :computer: Статистика
+<h3> :computer: Статистика </h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavSerKir&layout=compact)](https://github.com/VladislavSerKir/github-readme-stats)
 
