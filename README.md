@@ -9,6 +9,8 @@
   <p>:rice_scene: &nbsp; In my free time I like to play board games and going out english speaking clubs &nbsp; </p>
   <br/>
 </div>
+ 
+ :hammer: &nbsp; I took part in developing personal page for Irkutsk charity company together with team, you can watch code here: [Balapanlar](https://github.com/Gyxer513/Balapanlar)
 
  :envelope: &nbsp; Find me in Telegram:&nbsp;[vl_kireev](https://t.me/vl_kireev)
  
