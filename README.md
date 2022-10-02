@@ -9,11 +9,18 @@
   <p>:rice_scene: &nbsp; In my free time I like to play board games and going out english speaking clubs &nbsp; </p>
   <br/>
 </div>
- 
- :hammer: &nbsp; I took part in developing personal page for Irkutsk charity company together with team, you can watch code here: [Balapanlar](https://github.com/Gyxer513/Balapanlar)
 
  :envelope: &nbsp; Find me in Telegram:&nbsp;[vl_kireev](https://t.me/vl_kireev)
  
+ :mailbox_with_mail: &nbsp; Mail to me:&nbsp;[kireew.vladislaw@icloud.com](mailto:kireew.vladislaw@icloud.com)
+ 
+<hr/>
+
+ :hammer: &nbsp; ***I took part in developing personal page for Irkutsk charity company together with team, you can watch code here: [Balapanlar](https://github.com/Gyxer513/Balapanlar)***
+ 
+ ![2022-10-02_21-35-52](https://user-images.githubusercontent.com/83783362/193470684-e5018837-85e1-479e-ab77-c95916c87835.png)
+
+<hr/>
 <h3> :memo: Languages & Tech </h3>
 <div align="left">
   <br/>
