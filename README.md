@@ -53,8 +53,11 @@
 
 <h3> :computer: Activity </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavSerKir&layout=compact)](https://github.com/VladislavSerKir/github-readme-stats)
+<div display="block">
 
 [![Vladislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladislavSerKir)](https://github.com/VladislavSerKir/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavSerKir&layout=compact)](https://github.com/VladislavSerKir/github-readme-stats)
+
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=VladislavSerKir&style=square&color=blue" alt="counter"/>
