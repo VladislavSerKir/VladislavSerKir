@@ -8,14 +8,6 @@
   <p>:dart: &nbsp; I'm inspired working on thoroughly web projects. So i'm widely open to a new horizons in terms of projects & stacks &nbsp; :foggy:</p>
   <p>:rice_scene: &nbsp; In my free time I like to play board games and going out english speaking clubs &nbsp; </p>
 
-[![Telegram Badge](https://img.shields.io/badge/-@vl__kireev-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/vl_kireev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-kireev-230b85138) 
-![](https://img.shields.io/badge/E--mail-kireev.vladislav%40yandex.ru-yellow?style=for-the-badge&logo=appveyo)
-[![][black-shield]][black]
-
-[black]: https://drive.google.com/file/d/1IWeN4Am3zSmxMK49il7o6kKGaAnP_Snc/view?usp=drive_link
-[black-shield]: https://img.shields.io/badge/My%20resume-Vladislav-green.svg?style=for-the-badge&labelColor=gray
-
 </div>
 
 <h2>Languages & Tech </h2>
@@ -43,6 +35,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
 </div>
+
+<h2>My contacts </h2>
+
+[![Telegram Badge](https://img.shields.io/badge/-@vl__kireev-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/vl_kireev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-kireev-230b85138) 
+![](https://img.shields.io/badge/E--mail-kireev.vladislav%40yandex.ru-yellow?style=for-the-badge&logo=appveyo)
+[![][black-shield]][black]
+
+[black]: https://drive.google.com/file/d/1IWeN4Am3zSmxMK49il7o6kKGaAnP_Snc/view?usp=drive_link
+[black-shield]: https://img.shields.io/badge/My%20resume-Vladislav-green.svg?style=for-the-badge&labelColor=gray
 
   <h2>
    Joint projects
