@@ -11,7 +11,7 @@
 </div>
 
 <h2>Languages & Tech </h2>
-<div align="left">
+<!-- <div align="left">
   <br/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
@@ -34,8 +34,54 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-</div>
+</div> -->
 
+  
+  ![](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=ffffff&color=E44D26)
+  ![](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&logoColor=ffffff&color=25A1E1)
+  ![](https://img.shields.io/badge/SCSS-informational?style=flat-square&logo=sass&logoColor=ffffff&color=cf59e7)
+  ![](https://img.shields.io/badge/БЭМ-informational?style=flat-square&logo=bem&logoColor=ffffff&color=000000)
+  <br>
+  ![](https://img.shields.io/badge/npm-informational?style=flat-square&logo=npm&logoColor=ffffff&color=ca2813)
+  ![](https://img.shields.io/badge/git-informational?style=flat-square&logo=git&logoColor=DC3526&color=dedede)
+  ![](https://img.shields.io/badge/Webpack-informational?style=flat-square&logo=webpack&logoColor=ffffff&color=1c78c0)
+  <br>
+  ![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript&logoColor=323330&color=f0db4f)
+  ![](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)
+  <br> 
+  ![](https://img.shields.io/badge/React.ts-informational?style=flat-square&logo=react&logoColor=ffffff&color=066d89)
+  ![](https://img.shields.io/badge/Redux-informational?style=flat-square&logo=redux&logoColor=ffffff&color=572B98)
+  ![](https://img.shields.io/badge/Thunk-informational?style=flat-square&logo=thunk&logoColor=ffffff&color=572B98)
+  ![](https://img.shields.io/badge/Axios-informational?style=flat-square&logo=axios&logoColor=ffffff&color=000000)
+  ![](https://img.shields.io/badge/WebSockets-informational?style=flat-square&logo=web-socket&logoColor=ffffff&color=007acc)
+  ![](https://img.shields.io/badge/JWT-informational?style=flat-square&logo=jwt&logoColor=000000&color=dedede)
+  <br>
+  ![](https://img.shields.io/badge/Node.js-informational?style=flat-square&logo=node.js&logoColor=ffffff&color=3c873a)
+  ![](https://img.shields.io/badge/Express-informational?style=flat-square&logo=express&logoColor=ffffff&color=3c873a)
+  ![](https://img.shields.io/badge/HTTP-informational?style=flat-square&logo=http&logoColor=ffffff&color=3c873a)
+  ![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=ffffff&color=3FA037)
+  <br>
+  ![](https://img.shields.io/badge/NestJS-informational?style=flat-square&logo=nestjs&logoColor=ffffff&color=B62912)
+  ![](https://img.shields.io/badge/SQL-informational?style=flat-square&logo=SQL&logoColor=90cfff&color=dedede)
+  ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=ffffff&color=336791)
+  <br>
+  ![](https://img.shields.io/badge/Jest-informational?style=flat-square&logo=Jest&logoColor=ffffff&color=B62912)
+  ![](https://img.shields.io/badge/Cypress-informational?style=flat-square&logo=Cypress&logoColor=29DA86&color=3A5259)
+  ![](https://img.shields.io/badge/Unit_Testing-informational?style=flat-square&logo=unit-testing&logoColor=000000&color=dedede)
+  ![](https://img.shields.io/badge/React_testing_library-informational?style=flat-square&logo=react-testing-library&logoColor=000000&color=dedede)
+  <br>
+  ![](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=ffffff&color=0F7DDF)
+  ![](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=linux&logoColor=ffffff&color=178a66)
+  <br>
+  ![](https://img.shields.io/badge/Bootstrap_5-informational?style=flat-square&logo=bootstrap&logoColor=ffffff&color=178a66)
+  ![](https://img.shields.io/badge/Storybook-informational?style=flat-square&logo=Storybook&logoColor=ffffff&color=FB2972)
+  <br>
+  ![](https://img.shields.io/badge/VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=007acc)
+  ![](https://img.shields.io/badge/Photoshop-informational?style=flat-square&logo=photoshop&logoColor=white&color=007acc)
+  ![](https://img.shields.io/badge/Figma-informational?style=flat-square&logo=figma&logoColor=ffffff&color=f07009)
+  ![](https://img.shields.io/badge/Pixel_perfect-informational?style=flat-square&logo=pixel-perfect&logoColor=f07009&color=dedede)
+  ![](https://img.shields.io/badge/Postman-informational?style=flat-square&logo=postman&logoColor=ffffff&color=f68205)
+  ![](https://img.shields.io/badge/Swagger-informational?style=flat-square&logo=swagger&logoColor=ffffff&color=52d611)
 <h2>My contacts </h2>
 
 [![Telegram Badge](https://img.shields.io/badge/-@vl__kireev-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/vl_kireev)
@@ -45,14 +91,6 @@
 
 [black]: https://drive.google.com/file/d/1IWeN4Am3zSmxMK49il7o6kKGaAnP_Snc/view?usp=drive_link
 [black-shield]: https://img.shields.io/badge/My%20resume-Vladislav-green.svg?style=for-the-badge&labelColor=gray
-
-  <h2>
-   Joint projects
-  </h2>
-
- :hammer: &nbsp; ***I took part in developing personal page for Irkutsk charity company together with team, you can watch code here: [Balapanlar](https://github.com/Gyxer513/Balapanlar)***
- 
- ![2022-10-02_21-35-52](https://user-images.githubusercontent.com/83783362/193470684-e5018837-85e1-479e-ab77-c95916c87835.png)
 
 <h2>Activity </h2>
 
@@ -64,5 +102,13 @@
 
 [![codewars](https://www.codewars.com/users/VladislavSerKir/badges/large)](https://www.codewars.com/users/VladislavSerKir) 
 </div>
+
+  <h2>
+   Joint projects
+  </h2>
+
+ :hammer: &nbsp; ***I took part in developing personal page for Irkutsk charity company together with team, you can watch code here: [Balapanlar](https://github.com/Gyxer513/Balapanlar)***
+ 
+ ![2022-10-02_21-35-52](https://user-images.githubusercontent.com/83783362/193470684-e5018837-85e1-479e-ab77-c95916c87835.png)
 
 <img src="https://komarev.com/ghpvc/?username=VladislavSerKir&style=square&color=blue" alt="counter"/>
