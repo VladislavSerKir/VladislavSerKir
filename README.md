@@ -107,8 +107,20 @@
    Совместные проекты
   </h2>
 
- :hammer: &nbsp; ***Я принимал участие в разработке сайта для Иркутской благотворительной компании совместно с командой, посмотреть код здесь: [Balapanlar](https://github.com/Gyxer513/Balapanlar)***
+  <div display="flex">
+<div>
+  
+:hammer: &nbsp; **Я принимал участие в разработке приложения для помощи окружающим, посмотреть код здесь: [ЯПомогаю](https://github.com/ya-pomogau/frontend-fork)**
  
+![2023-10-14_21-19-47](https://github.com/VladislavSerKir/VladislavSerKir/assets/83783362/6b929510-4cbf-4eb1-8e55-fd46621a44a1)
+
+</div>
+<div>
+  
+:hammer: &nbsp; **Я принимал участие в разработке сайта для Иркутской благотворительной компании совместно с командой, посмотреть код здесь: [Balapanlar](https://github.com/Gyxer513/Balapanlar)**
+  
  ![2022-10-02_21-35-52](https://user-images.githubusercontent.com/83783362/193470684-e5018837-85e1-479e-ab77-c95916c87835.png)
+</div>
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=VladislavSerKir&style=square&color=blue" alt="counter"/>
