@@ -1,17 +1,17 @@
 <div align="left">
   <h1>
-   Welcome :wave: , i'm Vladislav Kireev
+   Добро пожаловать :wave: , я Владислав Киреев
   </h1>
-  <p>:star2: &nbsp; I'm frontend developer from Saint-Petersburg :house_with_garden: </p>
-  <p>:factory: &nbsp; I has been working as engineer constructor for more 3 years</p>
-  <p>:book: &nbsp; I has been learning web development in <a href="https://practicum.yandex.ru/profile/web-plus"> Yandex Practikum</a> scince 2021</p>
-  <p>:dart: &nbsp; I'm inspired working on thoroughly web projects. So i'm widely open to a new horizons in terms of projects & stacks &nbsp; :foggy:</p>
-  <p>:rice_scene: &nbsp; In my free time I like to play board games and going out english speaking clubs &nbsp; </p>
+  <p>:star2: &nbsp; Я фронтенд разработчик из Санкт-Петербурга :house_with_garden: </p>
+  <p>:factory: &nbsp; Я работал инженером конструктором более 3х лет</p>
+  <p>:book: &nbsp; Я изучал разработку в <a href="https://practicum.yandex.ru/profile/web-plus"> Яндекс Практикуме</a> с 2021</p>
+  <p>:dart: &nbsp; Я люблю разбираться и решать поставленные задачи. Поэтому я открыт к изучению новых технологий и к погружению в новые проекты &nbsp; :foggy:</p>
+  <p>:rice_scene: &nbsp; В свое свободное время я люблю играть в настольные игры, посещать новые места и ходить на юмористические шоу &nbsp; </p>
 
 </div>
 
-<h2>Languages & Tech </h2>
-<!-- <div align="left">
+<h2>Языки и технологии </h2>
+<div align="left">
   <br/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
@@ -34,9 +34,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-</div> -->
+</div>
 
-  
+  <!--
   ![](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=ffffff&color=E44D26)
   ![](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&logoColor=ffffff&color=25A1E1)
   ![](https://img.shields.io/badge/SCSS-informational?style=flat-square&logo=sass&logoColor=ffffff&color=cf59e7)
@@ -81,8 +81,8 @@
   ![](https://img.shields.io/badge/Figma-informational?style=flat-square&logo=figma&logoColor=ffffff&color=f07009)
   ![](https://img.shields.io/badge/Pixel_perfect-informational?style=flat-square&logo=pixel-perfect&logoColor=f07009&color=dedede)
   ![](https://img.shields.io/badge/Postman-informational?style=flat-square&logo=postman&logoColor=ffffff&color=f68205)
-  ![](https://img.shields.io/badge/Swagger-informational?style=flat-square&logo=swagger&logoColor=ffffff&color=52d611)
-<h2>My contacts </h2>
+  ![](https://img.shields.io/badge/Swagger-informational?style=flat-square&logo=swagger&logoColor=ffffff&color=52d611) -->
+<h2>Мои контакты </h2>
 
 [![Telegram Badge](https://img.shields.io/badge/-@vl__kireev-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/vl_kireev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-kireev-230b85138) 
@@ -92,11 +92,11 @@
 [black]: https://drive.google.com/file/d/1IWeN4Am3zSmxMK49il7o6kKGaAnP_Snc/view?usp=drive_link
 [black-shield]: https://img.shields.io/badge/My%20resume-Vladislav-green.svg?style=for-the-badge&labelColor=gray
 
-<h2>Activity </h2>
+<h2>Активность </h2>
 
 <div display="block">
 
-[![Vladislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladislavSerKir)](https://github.com/VladislavSerKir/github-readme-stats)
+<!-- [![Vladislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladislavSerKir)](https://github.com/VladislavSerKir/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavSerKir&layout=compact)](https://github.com/VladislavSerKir/github-readme-stats)
 <br>
 
@@ -104,10 +104,10 @@
 </div>
 
   <h2>
-   Joint projects
+   Совместные проекты
   </h2>
 
- :hammer: &nbsp; ***I took part in developing personal page for Irkutsk charity company together with team, you can watch code here: [Balapanlar](https://github.com/Gyxer513/Balapanlar)***
+ :hammer: &nbsp; ***Я принимал участие в разработке сайта для Иркутской благотворительной компании совместно с командой, посмотреть код здесь: [Balapanlar](https://github.com/Gyxer513/Balapanlar)***
  
  ![2022-10-02_21-35-52](https://user-images.githubusercontent.com/83783362/193470684-e5018837-85e1-479e-ab77-c95916c87835.png)
 
