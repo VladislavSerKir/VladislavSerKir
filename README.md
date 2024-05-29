@@ -92,6 +92,11 @@
 [black]: https://drive.google.com/file/d/1IWeN4Am3zSmxMK49il7o6kKGaAnP_Snc/view?usp=drive_link
 [black-shield]: https://img.shields.io/badge/My%20resume-Vladislav-green.svg?style=for-the-badge&labelColor=gray
 
+<div align="left">
+<h2>Пройденные курсы </h2>
+  <p>:notebook_with_decorative_cover: &nbsp; <a href="https://stepik.org/course/63054/syllabus"> Stepik - Интерактивный курс по SQL </a> &nbsp; - :star: <a href="https://stepik.org/cert/2476017"> Sertificate </a> :star: </p>
+</div>
+
 <h2>Активность </h2>
 
 <div display="block">
