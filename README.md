@@ -94,7 +94,8 @@
 
 <div align="left">
 <h2>Пройденные курсы </h2>
-  <p>:notebook_with_decorative_cover: &nbsp; <a href="https://stepik.org/course/63054/syllabus"> Stepik - Интерактивный курс по SQL </a> &nbsp; - :star: <a href="https://stepik.org/cert/2476017"> Sertificate </a> :star: </p>
+  <p>:notebook_with_decorative_cover: &nbsp; <a href="https://practicum.yandex.ru/fullstack-developer/?from=catalog"> Practicum - Fullstack developer </a> &nbsp; - :star: <a href="https://disk.yandex.ru/i/DgpnpM3NO6I-Jg"> Диплом </a> :star: 
+  <p>:notebook_with_decorative_cover: &nbsp; <a href="https://stepik.org/course/63054/syllabus"> Stepik - Интерактивный курс по SQL </a> &nbsp; - :star: <a href="https://stepik.org/cert/2476017"> Сертификат </a> :star: </p>
 </div>
 
 <h2>Активность </h2>
