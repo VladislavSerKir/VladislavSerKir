@@ -107,6 +107,8 @@
 <br>
 
 [![codewars](https://www.codewars.com/users/VladislavSerKir/badges/large)](https://www.codewars.com/users/VladislavSerKir) 
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/VladislavSerKir)](https://leetcode.com/VladislavSerKir?ext=heatmap)
 </div>
 
   <h2>
