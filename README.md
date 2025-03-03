@@ -26,9 +26,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongo" alt="Mongo" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Nest" alt="Nest" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="Nest" alt="Nest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MUI" alt="MUI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
@@ -96,6 +97,8 @@
 <h2>Пройденные курсы </h2>
   <p>:notebook_with_decorative_cover: &nbsp; <a href="https://practicum.yandex.ru/fullstack-developer/?from=catalog"> Practicum - Fullstack developer </a> &nbsp; - :star: <a href="https://disk.yandex.ru/i/DgpnpM3NO6I-Jg"> Диплом </a> :star: 
   <p>:notebook_with_decorative_cover: &nbsp; <a href="https://stepik.org/course/63054/syllabus"> Stepik - Интерактивный курс по SQL </a> &nbsp; - :star: <a href="https://stepik.org/cert/2476017"> Сертификат </a> :star: </p>
+  <p>:notebook_with_decorative_cover: &nbsp; <a href="https://www.udemy.com/course/learn-react-query/?couponCode=ST10MT30325G2"> Udemy - React Server State Management </a> &nbsp;
+  <p>:notebook_with_decorative_cover: &nbsp; <a href="https://www.udemy.com/course/automated-web-testing/?referralCode=A24D5BD518B4CDBF1BFD&couponCode=ST10MT30325G2"> Udemy - Automated Web Testing with JavaScript and Playwright </a> &nbsp;
 </div>
 
 <h2>Активность </h2>
