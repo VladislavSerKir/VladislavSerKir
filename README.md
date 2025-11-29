@@ -2,7 +2,7 @@
   <h1>
    Добро пожаловать :wave: , я Владислав Киреев
   </h1>
-  <p>:star2: &nbsp; Я фронтенд разработчик из Санкт-Петербурга :house_with_garden: </p>
+  <p>:star2: &nbsp; Я fullstack разработчик из Санкт-Петербурга :house_with_garden: </p>
   <p>:factory: &nbsp; Я работал инженером конструктором более 3х лет</p>
   <p>:book: &nbsp; Я изучал разработку в <a href="https://practicum.yandex.ru/profile/web-plus"> Яндекс Практикуме</a> с 2021</p>
   <p>:dart: &nbsp; Я люблю разбираться и решать поставленные задачи. Поэтому я открыт к изучению новых технологий и к погружению в новые проекты &nbsp; :foggy:</p>
@@ -12,29 +12,27 @@
 
 <h2>Языки и технологии </h2>
 <div align="left">
-  <br/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <h3>Frontend</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apollographql/apollographql-line-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MUI" alt="MUI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+  <h3>Backend</h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongo" alt="Mongo" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="Nest" alt="Nest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MUI" alt="MUI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
 </div>
 
   <!--
@@ -97,6 +95,8 @@
 <h2>Пройденные курсы </h2>
   <p>:notebook_with_decorative_cover: &nbsp; <a href="https://practicum.yandex.ru/fullstack-developer/?from=catalog"> Practicum - Fullstack developer </a> &nbsp; - :star: <a href="https://disk.yandex.ru/i/DgpnpM3NO6I-Jg"> Диплом </a> :star: 
   <p>:notebook_with_decorative_cover: &nbsp; <a href="https://stepik.org/course/63054/syllabus"> Stepik - Интерактивный курс по SQL </a> &nbsp; - :star: <a href="https://stepik.org/cert/2476017"> Сертификат </a> :star: </p>
+  <p>:notebook_with_decorative_cover: &nbsp; <a href="https://stepik.org/cert/2840672"> Stepik - Поколение Python - курс для начинающих </a> &nbsp; - :star: <a href="https://stepik.org/cert/2840672"> Сертификат </a> :star: </p>
+  <p>:notebook_with_decorative_cover: &nbsp; <a href="https://stepik.org/cert/3029842"> Stepik - Поколение Python - курс для продвинутых </a> &nbsp; - :star: <a href="https://stepik.org/cert/3029842"> Сертификат </a> :star: </p>
   <p>:notebook_with_decorative_cover: &nbsp; <a href="https://www.udemy.com/course/learn-react-query/?couponCode=ST10MT30325G2"> Udemy - React Server State Management </a> &nbsp;
   <p>:notebook_with_decorative_cover: &nbsp; <a href="https://www.udemy.com/course/automated-web-testing/?referralCode=A24D5BD518B4CDBF1BFD&couponCode=ST10MT30325G2"> Udemy - Automated Web Testing with JavaScript and Playwright </a> &nbsp;
 </div>
