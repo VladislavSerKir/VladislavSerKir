@@ -88,7 +88,7 @@
 ![](https://img.shields.io/badge/E--mail-kireev.vladislav%40yandex.ru-yellow?style=for-the-badge&logo=appveyo)
 [![][black-shield]][black]
 
-[black]: https://drive.google.com/file/d/1IWeN4Am3zSmxMK49il7o6kKGaAnP_Snc/view?usp=drive_link
+[black]: https://disk.yandex.ru/i/DZpdULd_fvM46Q
 [black-shield]: https://img.shields.io/badge/My%20resume-Vladislav-green.svg?style=for-the-badge&labelColor=gray
 
 <div align="left">
