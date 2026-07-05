@@ -85,10 +85,10 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-@vl__kireev-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/vl_kireev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-kireev-230b85138) 
-![](https://img.shields.io/badge/E--mail-kireev.vladislav%40yandex.ru-yellow?style=for-the-badge&logo=appveyo)
+![](https://img.shields.io/badge/E--mail-kireew.vladislaw%40gmail.com-yellow?style=for-the-badge&logo=appveyo)
 [![][black-shield]][black]
 
-[black]: https://disk.yandex.ru/i/DZpdULd_fvM46Q
+[black]: https://disk.yandex.ru/i/CesUHifKrIA81A
 [black-shield]: https://img.shields.io/badge/My%20resume-Vladislav-green.svg?style=for-the-badge&labelColor=gray
 
 <div align="left">
